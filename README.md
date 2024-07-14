@@ -1,4 +1,4 @@
-# Hackintosh-ASRock-B650M-Riptide-7800X3D
+# Hackintosh-ASRock-B650M-Riptide-7600X
 
 ![Thumbnail](Docs/Thumbnail.png)
 
@@ -14,13 +14,13 @@ Note 2: In Windows 11 Disable USB-Selective Suspend in every Energy Profile. Thi
 
 
 # Hardware
-- CPU: AMD Ryzen 7 7800X3D
+- CPU: AMD Ryzen 7 7600X
 - Board: ASRock B650M Riptide
-- RAM: 32 GB (2x16GB) Kingston DDR5 6000Mhz CL32
-- GPU: MSI Gaming Trio X 6900 XTX
-- PSU: Corsair SF750
-- Case: Asus AP201 (Micro-ATX)
-- Wifi/BT: Fenvi T919 with Broadcom Chipset
+- RAM: 32 GB (2x16GB) Crucial DDR5 4800Mhz CL40
+- GPU: Sapphire Pulse RX 580 8G
+- PSU: Be Quiet ! Pure Power 9 CM, 600W
+- Case: BitFenix Prodigy M (Micro-ATX)
+- Wifi/BT: Broadcom Chipset
 
 # Working
 - CPU Power Management
